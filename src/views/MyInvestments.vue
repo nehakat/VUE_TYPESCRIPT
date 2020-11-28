@@ -1,8 +1,8 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <!-- <img alt="Vue logo" src="../assets/logo.png">
     This is my invessment dashboard view
-  </div>
+  </div> -->
 </template>
 
 <script>
